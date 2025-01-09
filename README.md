@@ -1,8 +1,20 @@
-# React + Vite
+# SaaS Website - UIFry
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the source code for a SaaS website built using React and Vite.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: A JavaScript library for building user interfaces.
+- **Vite**: A build tool that aims to provide a faster and leaner development experience for modern web projects.
+- **HMR**: Hot Module Replacement for a better development experience.
+- **ESLint**: Linting tool for maintaining code quality.
+
+## Installation
+
+To get started with the project, clone the repository and install the dependencies:
+
+```sh
+git clone https://github.com/arirzwn/saas-website-uifry.git
+cd saas-website-uifry
+npm install
+npm run dev
